@@ -1,5 +1,7 @@
 This program will return the first paragraph of a Wikipedia article as a summary of the article.
 
+Source, compiled jar, and third party dependencies are uploaded. Download the full repository for all of this.
+
 Usage:
 
 Open a terminal/command prompt window in the folder where WikiSummary.jar is stored.
